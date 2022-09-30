@@ -1,0 +1,1 @@
+print("The unicode of character 'm' is",ord('m'))
