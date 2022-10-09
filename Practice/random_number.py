@@ -1,2 +1,6 @@
 from random import randint
-print(randint(30,50))
+a=1
+print(randint(20,30))
+
+    
+
